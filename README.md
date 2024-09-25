@@ -6,4 +6,4 @@
 
 </p
 <h3 align="left">Languages and Tools:</h3>
-<h4 align="center">Python, Java, C, HTML/CSS, JavaScript, TypeScript, Kotlin, SQL, VS Code, MongoDB, Flask, Angular, React, Node.js, Jenkins, GitHub, Docker</h4>
+<h4 align="center">Python, Java, C, HTML/CSS, JavaScript, TypeScript, SQL
