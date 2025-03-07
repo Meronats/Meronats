@@ -25,14 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
-### Profile Views:
 
-![Profile Views](https://komarev.com/ghpvc/?username=meronats&color=blueviolet)
-
-
-### GitHub Stats:
-
-![Meron's GitHub stats](https://github-readme-stats.vercel.app/api?username=meronats&show_icons=true&theme=radical)
 
 ### Currently Learning:
 <p align="left">
